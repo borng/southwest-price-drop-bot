@@ -38,7 +38,7 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.merge": "^4.6.1",
     "mailgun-js": "^0.22.0",
-    "mongoose": "^5.5.7",
+    "mongoose": "^6.13.12",
     "npm": "^6.5.0",
     "package.json": "^2.0.1",
     "plivo": "^4.0.5",
